@@ -1,0 +1,152 @@
+/* Custom CSS goes here */
+
+@import url('https://fonts.googleapis.com/css?family=Catamaran|Lemonada');
+
+
+body {
+	font-family: 'Catamaran', sans-serif;
+}
+
+.brand {
+	font-family: 'Lemonada', cursive;
+}
+
+#sitemap {
+	background-color: green;
+}
+
+@media (max-width: 989px) {
+	#hidethumb{
+		display: none;
+	}	
+}
+
+.hero-video {
+/*	padding-top: 50px;*/
+	min-width: 100%;
+	opacity: 0.2;
+}
+
+.hero-title {
+	float: left;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+#test {	
+	margin-top: -300px;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+
+.herotext {
+	font-size: 5rem;
+
+}
+
+#customnav {
+	opacity: 0.8;	
+}
+
+#test2 {
+	padding-top: 50px;
+}
+
+.nope {
+	color: grey;
+}
+
+i.yup {
+	color: green;
+}
+
+td.yup {
+	font-weight: 900;
+}
+
+#header {
+	background-color: #F7EDF0;
+}
+
+#footer {
+	background-color: #F7EDF0;
+}
+
+.ribbon {
+	padding: 10px 10px 10px 10px;
+}
+
+#bgimg-1 {
+	/*background: url("../images/girls-1733357_1920.jpg");*/
+	background: url("../images/meditate.jpg");
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bgimg-2 {
+	background: url("../images/tree.jpg");
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bgimg-3 {
+	background: url("../images/couple-1733996_1920.jpg");
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu {
+	border: 2px black solid;
+	border-radius: 20px;
+	margin: 10px;
+	background-color: white;
+}
+
+#menu-back {
+	background-color: #F4AFAB;
+/*	margin-top: 20px;*/
+	padding-bottom: 20px;
+}
+
+#onemorething {
+	margin-bottom: -100px;
+}
+
+#signup {
+	margin-top: 100px;
+	
+}
+
+#form-design {
+	/*background-color: grey;*/
+	opacity: 0.5;
+	border: 1px solid white;
+}
+
+/*.text-standout {
+	opacity: 0;
+	color: white;
+	font-weight: 900;
+}*/
+
+.caro {
+	max-height: 280px;
+
+}
+
+.caption {
+	margin-top: 150px;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
